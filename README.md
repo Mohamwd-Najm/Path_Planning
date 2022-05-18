@@ -9,6 +9,6 @@ Get and set latitude and longitude for your location and the distnation you want
 - after that use the function: `get_directions()` without any parameters and it will get the direstion and the distance from your location untill reach the distnation.
 - finally call the function: `converting_list(list)` and pass the output list from the previous one and its output will be the final instraction which will be sent to the embedded system directly. 
 
-### bouns functions:
+### bonus functions:
 - `get_curr_location()` which return your current location
 - `get_dist_location()` which return your distination location
